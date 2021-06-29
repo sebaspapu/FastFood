@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1083139520860",
+    "firebase_url": "https://appfastfood21-default-rtdb.firebaseio.com",
+    "project_id": "appfastfood21",
+    "storage_bucket": "appfastfood21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083139520860:android:4f7f1a62a906287fd22999",
+        "android_client_info": {
+          "package_name": "com.example.appfastfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083139520860-1abq2kvr6fqkq65rad71h3tvjk8kcop6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3x7w9LYByXEEcNeq3D4lLNZNeI6hI8b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083139520860-1abq2kvr6fqkq65rad71h3tvjk8kcop6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083139520860:android:f773e392399ed458d22999",
+        "android_client_info": {
+          "package_name": "com.univalle.fastfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083139520860-1abq2kvr6fqkq65rad71h3tvjk8kcop6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3x7w9LYByXEEcNeq3D4lLNZNeI6hI8b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083139520860-1abq2kvr6fqkq65rad71h3tvjk8kcop6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
