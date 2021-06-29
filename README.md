@@ -22,6 +22,7 @@ After these we have 3 more options that have not yet been finished programming, 
 Finally we find an option that allows the user to log out and exit the application.
 
 In general, these are some of the functions currently programmed within the App.
+The application is being developed in the Android Studio IDE where we use 100% the JAVA language.
 
 
 *App de Mapas que ubican puestos cercanos de comidas rapidas agregados por usuarios registrados.*
@@ -46,3 +47,4 @@ Luego de estos tenemos 3 opciones más que aún no se han terminado de programar
 Por ultimo encontramos un la opcion que nos permite al usuario desloguearse y salir de la aplicacion.
 
 A modo general esos son algunas de las funciones programadas actualmente dentro de la App.
+La aplicacion se está desarrollando en el IDE Android Studio donde utilizamos en un 100% el lenguaje JAVA.
