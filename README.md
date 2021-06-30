@@ -12,6 +12,8 @@ The application allows you to register establishments, through an interface whic
 To be able to be found and also to market their products in the most intuitive and easy way. Within this section it is important to specify the
 "Name of the establishment", and a contact email.
 
+It should be noted that the Firebase NoSQL cloud database was used for logging.
+
 The application has a side Menu with Navigation Drawer, where we find different options which allow us to move through the app in an agile way:
 -Within these we find a Map, where we can view and locate ourselves within our area, using the google API.
 -We found the Establishment option, which allows from the geolocation services of our smartphone to locate ourselves at a point, and draw a route from there to
@@ -36,6 +38,8 @@ La aplicacion permite registrar establecimientos, por medio de una interfaz la c
 (preferiblemente en este caso, y para comenzar "pequeños"), puedan hacer parte de una comunidad globalizada por el uso del pago electronico, que permita el uso de tecnologias 
 para poder ser encontrados y asi mismo comercializar sus productos de la manera más intuitiba y facil. Dentro de este apartado es importante que se especifique el 
 "Nombre del establecimiento", y un correo electronico de contacto.
+
+Cabe resaltar que para el logueo se utilizo la base de datos en la nube NoSQL de Firebase.
 
 La aplicacion cuenta con un Menu lateral con Navigation Drawer, en donde encontramos diferentes opciones las cuales permiten desplazarnos por la app de manera agil:
 -Dentro de estas encontramos un Mapa, en donde podemos visualizar y ubicarnos dentro de nuestra zona, se hace uso de la API de google.
