@@ -26,7 +26,7 @@ Finally we find an option that allows the user to log out and exit the applicati
 In general, these are some of the functions currently programmed within the App.
 The application is being developed in the Android Studio IDE where we use 100% the JAVA language.
 
-
+****************************************************************************************************************************************************
 *App de Mapas que ubican puestos cercanos de comidas rapidas agregados por usuarios registrados.*
 
 Dentro de las funcionalidades tenemos:
